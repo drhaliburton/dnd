@@ -62,7 +62,7 @@ Cantrips        1st ||||                2nd |||                 3rd |||
 Light           Healing Word            Cloud of Daggers        Tiny Hut
 Mage Hand       Dissonent Whispers      Invisibility            Hypnotic Pattern
 Message         Thunderwave             Shatter                 Fireball
-                                        Spiritual Weapon
+                                                                Fly
 
 // INVENTORY
 
