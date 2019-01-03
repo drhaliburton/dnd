@@ -6,7 +6,7 @@ XP: 36155
 
 // STATS
 
-STR 10 (+0)     MAX HP: 49      HIT DICE: 8 * d8+1
+STR 10 (+0)     MAX HP: 26      HIT DICE: 8 * d8+1
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
 CON 12 (+1)     CUR HP: 31      SPEED: 25ft
 INT 13 (+1)     PROF:   +3      PASSIVE PERCEPTION: 15
@@ -40,7 +40,7 @@ Disguise Kit    (+5)+
 
 Rapier    (+6 1d8+3)
 Silver SS (+6 1d6+3)
-Crossbow  (+6 1d8+3) ||||||||||||||||||||
+David Crossbowie  (+6 1d8+3) ||||||||||||||||||
 Daggers   (+6 1d4+3) ||
 
 Countercharm (30 ft, adv. on frightened/charmed)
@@ -57,12 +57,12 @@ Cunning Action
 HIT: (+7)
 DC: 15
 
-Cantrips        1st ||||                2nd |||                 3rd |||
+Cantrips        	1st ||||                2nd ||             3rd |||
 ---------------------------------------------------------------------------------
-Light           Healing Word            Cloud of Daggers        Tiny Hut
-Mage Hand       Dissonent Whispers      Invisibility            Hypnotic Pattern
-Message         Thunderwave             Shatter                 Fireball
-                                                                Fly
+Vicious Mockery 	Healing Word            Silence		         Dispel Magic
+Mage Hand       	Dissonant Whispers      Invisibility       Hypnotic Pattern
+Message         	Bane		                Locate Object      Fireball
+                                                             Fly
 
 // INVENTORY
 
@@ -73,6 +73,7 @@ Message         Thunderwave             Shatter                 Fireball
 1 jeweled eyepatch
 1 topaz pendant
 1 silver spoon
+MAGIC LUTE (Lex Lutether?)
 
 1 health potion
 1 red bubbly potion (vitality)
@@ -84,7 +85,6 @@ Message         Thunderwave             Shatter                 Fireball
 
 300gp diamond
 2x 5gp ring
-
 
 // NOTES
 
@@ -147,7 +147,7 @@ Vwaughtchers - Karl and Nicolai (shitty russian kids)
 One is with a witch, NEAR THE MARSH
 One lost to time
 
--- Can become wereravens if we come back with gem
+-- Can become wereravens if we come back with gems
 
 Axe in a tree?
 Dress - the tigher the better
@@ -177,7 +177,7 @@ Anus necklace
 
 vampire called Baron Von Mietis - was a machinest
 - was into making autonotoms (like collector)
-- wanted to releave himself of living
+- wanted to relieve himself of living
 - discovered that vampires get no nourishment from creatures without soul
 - strahd needs souls to lives
 - strahd needs to keep influx of souls
@@ -194,13 +194,12 @@ Aranda Bearcharger like 4000 years ago
 - thrillingly relentless huntress
 - drove out the lichenthrope
 - liberate duskelves from vistani handlers
+- somehow intertwines with Petrina velichovna
 
-Petrina Velichova
+Petrina Velichovna
 - ????
 
 we're on a strahd plane
 
 JUSTICE
-
-
-
+- don't let him out run or he'll run away
