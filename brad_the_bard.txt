@@ -11,28 +11,28 @@ DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Drui
 CON 12 (+1)     CUR HP: 31      SPEED: 25ft
 INT 13 (+1)     PROF:   +3      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +3
-CHA 18 (+4)     AC:     15
+CHA 18 (+4)     AC:     15 + 1
 
 // SKILLS                       // SAVING THROWS
 
 Acrobatics      (+7)++          STR (+0)
-Animal Handling (-1)+2          DEX (+5)+
-Arcana          (+1)+2          CON (+1)
-Athletics       (+0)+2          INT (+3)+
-Deception       (+4)+2          WIS (-1)
-History         (+1)+2          CHA (+4)
+Animal Handling (-1)+3          DEX (+5)+
+Arcana          (+1)+3          CON (+1)
+Athletics       (+0)+3          INT (+3)+
+Deception       (+4)+3          WIS (-1)
+History         (+1)+3          CHA (+4)
 Insight         (+3)++
-Intimidation    (+4)+2          *Advantage against being frightened
+Intimidation    (+4)+3          *Advantage against being frightened
 Investigation   (+3)+           *Keen Mind
-Medicine        (-1)+2
-Nature          (+1)+2
+Medicine        (-1)+3
+Nature          (+1)+3
 Perception      (+3)++
 Performance     (+6)+
 Persuasion      (+6)+
-Religion        (+1)+2
+Religion        (+1)+3
 Sleight of Hand (+7)++
-Stealth         (+3)+2
-Survival        (-1)+2
+Stealth         (+3)+3
+Survival        (-1)+3
 Thieves Tools   (+5)+
 Disguise Kit    (+5)+
 
@@ -54,15 +54,26 @@ Cunning Action
 
 // SPELLS
 
+Enemies have disadvantage on Charmed saving throws
+
 HIT: (+7)
 DC: 15
 
 Cantrips        	1st ||||                2nd ||             3rd |||
 ---------------------------------------------------------------------------------
-Vicious Mockery 	Healing Word            Silence		         Dispel Magic
+Vicious Mockery 	Healing Word            Shatter		         Dispel Magic
 Mage Hand       	Dissonant Whispers      Invisibility       Hypnotic Pattern
 Message         	Bane		                Locate Object      Fireball
-                                                             Fly
+                                          Knock              Fly
+
+// ONCE A DAY
+• Animal Friendship
+• Fly
+• Invisibility
+• Levitate
+• Protection from Energy (fire only)
+• Protection from Evil and Good
+• Protection from Poison
 
 // INVENTORY
 
@@ -73,18 +84,23 @@ Message         	Bane		                Locate Object      Fireball
 1 jeweled eyepatch
 1 topaz pendant
 1 silver spoon
-MAGIC LUTE (Lex Lutether?)
-
 1 health potion
 1 red bubbly potion (vitality)
 1 amber viscos potion (scorpion tail, dead spider, tiny beating heart) - beneficial necrotic effect
 1 solidy foggy potion (change form of person)
 
+purple velvet cape
+black trim
+connects at sunburst clasp
+
+
 2 fog potions
 1 1/2 weed pies
 
+Strahd cape
 300gp diamond
 2x 5gp ring
+steel morning lord necklace, jesus beads
 
 // NOTES
 
@@ -199,6 +215,23 @@ Aranda Bearcharger like 4000 years ago
 Petrina Velichovna
 - ????
 
+Gertruda
+- Strahd's slam piece
+
+Witches
+- Strahd promised them power if they destroy
+- Have to Selenka pass
+
+Vladimir
+- Sat in the throne room for many years
+
+Don't accept dark gift in templae
+
+// ARGONVOST
+- Layered in the Almedga Valley
+- Amber temple, guarded by forces of Good
+- Do not release the temple
+
 we're on a strahd plane
 
 JUSTICE
@@ -209,3 +242,24 @@ JUSTICE
 - room full of bones, everything bones, stacks of bones
 - closet in bathroom full of blood
 - room full of wedding setup, groom in corner, cake exploded and something flew through window
+
+# Doss Lute
+**Wondrous item, uncommon, requires attunement**
+
+The Doss Lute is an exquisite example of its kind, superior to an ordinary lute in every way. It is made of three kinds of wood, expertly blended together, in a textured pattern depicting a variety of forest animals.
+
+A creature that attempts to play the Doss Lute without being attuned to it must succeed on a DC 15 Wisdom saving throw or take 2d4 psychic damage. After attuning to the Doss Lute, it may be used by a Bard as a spellcasting focus.
+
+You can use an action to play the instrument and cast one of its spells. Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
+
+When you use the instrument to cast a spell that causes targets to become charmed on a failed save, the targets have disadvantage on the saving throw. This effect applies whether you are using the instrument as the source of the spell or as a spellcasting focus.
+
+**Spells:**
+
+• Animal Friendship
+• Fly
+• Invisibility
+• Levitate
+• Protection from Energy (fire only)
+• Protection from Evil and Good
+• Protection from Poison
