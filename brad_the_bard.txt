@@ -2,7 +2,7 @@
 
 BARD LVL 6
 ROGUE LVL 2
-XP: 36155
+XP: 37785
 
 // STATS
 
@@ -13,18 +13,18 @@ INT 13 (+1)     PROF:   +3      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +3
 CHA 18 (+4)     AC:     15 + 1
 
-// SKILLS                       // SAVING THROWS
+// SKILLS                     // SAVING THROWS
 
-Acrobatics      (+6)		STR (+0)
-Animal Handling (-2)	        DEX (+6)
+Acrobatics      (+6)					STR (+0)
+Animal Handling (+2)	        DEX (+6)
 Arcana          (+4)	        CON (+1)
 Athletics       (+1)	        INT (+1)
 Deception       (+7)	        WIS (-1)
 History         (+2)	        CHA (+7)
-Insight         (+2)	
+Insight         (+2)
 Intimidation    (+5)	        *Advantage against being frightened
-Investigation   (+4)            *Keen Mind
-Medicine        ( 0) 		*Lucky - reroll 1 on attack, saving or ability throw
+Investigation   (+4)          *Keen Mind
+Medicine        ( 0) 					*Lucky - reroll 1 on attack, saving or ability throw
 Nature          (+2)
 Perception      (+2)
 Performance     (+7)
@@ -61,14 +61,17 @@ Song of Rest ~ Extra healing on short rest
 HIT: (+7)
 DC: 15
 
-Cantrips        	1st ||||                2nd ||             3rd |||
+Cantrips        	1st |||                 2nd ||||           3rd ||
 ---------------------------------------------------------------------------------
-Vicious Mockery 	Healing Word            Shatter		         Dispel Magic
+Vicious Mockery 	Healing Word            Shatter		   		   Dispell Magic
 Mage Hand       	Dissonant Whispers      Invisibility       Hypnotic Pattern
-Message         	Bane		                Locate Object      Fireball
-                                          Knock              Fly
+Message         	Charm Person            Suggestion         Fireball
+                  Featherfall				      		               Fly
+																														 Leomonds Tiny Hut
+
 
 // ONCE A DAY
+
 • Animal Friendship
 • Fly
 • Invisibility
@@ -79,7 +82,7 @@ Message         	Bane		                Locate Object      Fireball
 
 // INVENTORY
 
-1202gp
+1000gp
 225pp
 
 1 spyglass
@@ -88,21 +91,30 @@ Message         	Bane		                Locate Object      Fireball
 1 silver spoon
 1 health potion
 1 red bubbly potion (vitality)
-1 amber viscos potion (scorpion tail, dead spider, tiny beating heart) - beneficial necrotic effect
 1 solidy foggy potion (change form of person)
+29 sausages
+15 steaks
+30lbs of jerky
+2 quarters of cow
+1x red dragon crush
+1 snowshoes
+1 winter climbing kit
+1 phat as fuck coat
+1 hat
+1 heating pendant
+Fur thigh highs
 
 purple velvet cape
 black trim
 connects at sunburst clasp
 
-
 2 fog potions
-1 1/2 weed pies
+5 1/2 weed pies
 
 Strahd cape
 300gp diamond
 2x 5gp ring
-steel morning lord necklace, jesus beads
+steel morning lord necklace, jesus beads (rosary)
 
 // NOTES
 
@@ -132,6 +144,7 @@ there you will find the prize
 Your enemy is a creature of darkness
 Whose powers are beyond mortality
 This card will lead you to him
+
 - Marionette
 Look to great hights
 Find the beating heart of the castle
@@ -152,6 +165,8 @@ Rictavio is interested in
 - drusella?
 - special friend in wagon JUSTICE
 - olev, free smithing for people helping
+
+Granny (Morgantha)
 
 Ricky's vampire hunting notes
 - Three orange dots, all on road outside everyone survived
@@ -203,6 +218,8 @@ vampire called Baron Von Mietis - was a machinest
 - rictavio fucked him up
 - his master was strahd
 
+Strahd Vanzeravitch
+
 Leoben Saffiredge
 - icky vampire dwarf
 - quite a thing to best him
@@ -236,6 +253,12 @@ Don't accept dark gift in templae
 
 we're on a strahd plane
 
+EXATHANTOR (litch)
+- power over mountain domain is super strong
+
+ANALYSA (witch)
+- scary witch in the north
+
 JUSTICE
 - don't let him out run or he'll run away
 
@@ -257,7 +280,6 @@ You can use an action to play the instrument and cast one of its spells. Once th
 When you use the instrument to cast a spell that causes targets to become charmed on a failed save, the targets have disadvantage on the saving throw. This effect applies whether you are using the instrument as the source of the spell or as a spellcasting focus.
 
 **Spells:**
-
 • Animal Friendship
 • Fly
 • Invisibility
@@ -265,3 +287,4 @@ When you use the instrument to cast a spell that causes targets to become charme
 • Protection from Energy (fire only)
 • Protection from Evil and Good
 • Protection from Poison
+
