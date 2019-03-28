@@ -2,73 +2,82 @@
 
 BARD LVL 6
 ROGUE LVL 2
-XP: 37785
+XP: 42385
+Age 13, 4'2
 
 // STATS
 
-STR 10 (+0)     MAX HP: 49      HIT DICE: 8 * d8+1
+STR 10 (+0)     MAX HP: 57      HIT DICE: 9 * d8+2
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
-CON 12 (+1)     CUR HP: 31      SPEED: 25ft
-INT 13 (+1)     PROF:   +3      PASSIVE PERCEPTION: 15
-WIS 8  (-1)     INIT:   +3
+CON 12 (+1)     CUR HP: 57      SPEED: 25ft
+INT 13 (+1)     PROF:   +4      PASSIVE PERCEPTION: 15
+WIS 8  (-1)     INIT:   +5
 CHA 18 (+4)     AC:     15 + 1
+
+22/22 warmness
 
 // SKILLS                     // SAVING THROWS
 
-Acrobatics      (+6)					STR (+0)
-Animal Handling (+2)	        DEX (+6)
-Arcana          (+4)	        CON (+1)
-Athletics       (+1)	        INT (+1)
-Deception       (+7)	        WIS (-1)
-History         (+2)	        CHA (+7)
-Insight         (+2)
-Intimidation    (+5)	        *Advantage against being frightened
-Investigation   (+4)          *Keen Mind
-Medicine        ( 0) 					*Lucky - reroll 1 on attack, saving or ability throw
-Nature          (+2)
-Perception      (+2)
-Performance     (+7)
-Persuasion      (+7)
-Religion        (+2)
-Sleight of Hand (+6)
-Stealth         (+6)
-Survival        ( 0)
-Thieves Tools   (+6)
-Disguise Kit    (+6)
+Acrobatics      (+7)		STR (+0)
+Animal Handling (+3)	        DEX (+7)
+Arcana          (+5)	        CON (+1)
+Athletics       (+2)	        INT (+1)
+Deception       (+8)	        WIS (-1)
+History         (+3)	        CHA (+8)
+Insight         (+3)
+Intimidation    (+6)	        *Advantage against being frightened
+Investigation   (+5)          	*Keen Mind
+Medicine        ( 1) 		*Lucky - reroll 1 on attack, saving or ability throw
+Nature          (+3)
+Perception      (+3)
+Performance     (+8)
+Persuasion      (+8)
+Religion        (+3)
+Sleight of Hand (+7)
+Stealth         (+7)
+Survival        ( 1)
+Thieves Tools   (+7)
+Disguise Kit    (+7)
 
 // ACTIONS
 
-Rapier    (+6 1d8+3)
-Silver SS (+6 1d6+3)
-David Crossbowie  (+6 1d8+3) ||||||||||||||||||
-Daggers   (+6 1d4+3) ||
-
-Countercharm (anyone in 30 ft has adv. on frightened/charmed)
-Combat Inspiration (1d8 to damage roll or to AC)
+Rapier              (+7 1d8+3)
+Silver SS           (+7 1d6+3)
+David Crossbowie    (+7 1d8+3) ||||||||||||||||||
+Daggers             (+7 1d4+3) ||
 
 // BONUS ACTIONS      // REACTIONS
 
 Healing Word          Cutting Words
 Bardic Inspo          Combat Inspiration
 Cunning Action
-Countercharm
+Countercharge
+
+Countercharm (anyone in 30 ft has adv. on frightened/charmed)
+Combat Inspiration (1d8 to damage roll or to AC)
 
 // SPELLS
 
 Enemies have disadvantage on ~Charmed~ saving throws
 Song of Rest ~ Extra healing on short rest
 
-HIT: (+7)
-DC: 15
+HIT: (+8)
+DC: 16
 
-Cantrips        	1st |||                 2nd ||||           3rd ||
----------------------------------------------------------------------------------
-Vicious Mockery 	Healing Word            Shatter		   		   Dispell Magic
-Mage Hand       	Dissonant Whispers      Invisibility       Hypnotic Pattern
-Message         	Charm Person            Suggestion         Fireball
-                  Featherfall				      		               Fly
-																														 Leomonds Tiny Hut
+Cantrips        	1st ||||                2nd ||||           	3rd |||		 	4th |
+-----------------------------------------------------------------------------------------------------------------
+Vicious Mockery 	Healing Word            Shatter		   	Dispell Magic		Polymorph
+Mage Hand       	Hideous Laughter	Suggestion		Hypnotic Pattern
+Light			Bane			Silence			Stinking Cloud
+    	     		Thunderwave					Fireball
+                  				 			Fly
 
+~ Spells Used ~
+
+4th:
+3rd:
+2nd:
+1st:
 
 // ONCE A DAY
 
@@ -82,14 +91,13 @@ Message         	Charm Person            Suggestion         Fireball
 
 // INVENTORY
 
-1000gp
+1050gp
 225pp
 
 1 spyglass
 1 jeweled eyepatch
 1 topaz pendant
 1 silver spoon
-1 health potion
 1 red bubbly potion (vitality)
 1 solidy foggy potion (change form of person)
 29 sausages
@@ -102,14 +110,19 @@ Message         	Charm Person            Suggestion         Fireball
 1 phat as fuck coat
 1 hat
 1 heating pendant
+1 pitchfork
 Fur thigh highs
+4 mushrooms, +2 hp
+1 fancy talky shrooms
+3 sapphire teeth
 
 purple velvet cape
 black trim
 connects at sunburst clasp
 
 2 fog potions
-5 1/2 weed pies
+2 funky mushrooms
+3 weed pies
 
 Strahd cape
 300gp diamond
@@ -244,7 +257,7 @@ Witches
 Vladimir
 - Sat in the throne room for many years
 
-Don't accept dark gift in templae
+Don't accept dark gift in temple
 
 // ARGONVOST
 - Layered in the Almedga Valley
@@ -258,15 +271,25 @@ EXATHANTOR (litch)
 
 ANALYSA (witch)
 - scary witch in the north
+- haunted the ghost folks
+- takes child sacrifices
+- she had daughters, moved south
 
 JUSTICE
 - don't let him out run or he'll run away
+
+MULL
+- eat mushroom, get mulledge
 
 // Castle Ravenloft
 - old champagne casks, logo similar to wiz o wines.
 - room full of bones, everything bones, stacks of bones
 - closet in bathroom full of blood
 - room full of wedding setup, groom in corner, cake exploded and something flew through window
+
+TOWER BEFORE SELENKA PASS
+- ladies on roof of tower
+- room with hearth
 
 # Doss Lute
 **Wondrous item, uncommon, requires attunement**
@@ -287,4 +310,3 @@ When you use the instrument to cast a spell that causes targets to become charme
 • Protection from Energy (fire only)
 • Protection from Evil and Good
 • Protection from Poison
-
