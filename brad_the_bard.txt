@@ -9,7 +9,7 @@ Age 13, 4'2
 
 STR 10 (+0)     MAX HP: 57      HIT DICE: 9 * d8+2
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
-CON 12 (+1)     CUR HP: 57      SPEED: 25ft
+CON 12 (+1)     CUR HP: 54      SPEED: 25ft
 INT 13 (+1)     PROF:   +4      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +5
 CHA 18 (+4)     AC:     15 + 1
@@ -51,7 +51,7 @@ Daggers             (+7 1d4+3) ||
 Healing Word          Cutting Words
 Bardic Inspo          Combat Inspiration
 Cunning Action
-Countercharge
+Countercharm
 
 Countercharm (anyone in 30 ft has adv. on frightened/charmed)
 Combat Inspiration (1d8 to damage roll or to AC)
@@ -66,7 +66,7 @@ DC: 16
 
 Cantrips        	1st ||||                2nd ||||           	3rd |||		 	4th |
 -----------------------------------------------------------------------------------------------------------------
-Vicious Mockery 	Healing Word            Shatter		   	Dispell Magic		Polymorph
+Vicious Mockery 	Healing Word            Shatter		   	Dispel Magic		Polymorph
 Mage Hand       	Hideous Laughter	Suggestion		Hypnotic Pattern
 Light			Bane			Silence			Stinking Cloud
     	     		Thunderwave					Fireball
@@ -98,7 +98,6 @@ Light			Bane			Silence			Stinking Cloud
 1 jeweled eyepatch
 1 topaz pendant
 1 silver spoon
-1 red bubbly potion (vitality)
 1 solidy foggy potion (change form of person)
 29 sausages
 15 steaks
