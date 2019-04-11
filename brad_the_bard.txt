@@ -9,7 +9,7 @@ Age 13, 4'2
 
 STR 10 (+0)     MAX HP: 57      HIT DICE: 9 * d8+2
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
-CON 12 (+1)     CUR HP: 54      SPEED: 25ft
+CON 12 (+1)     CUR HP: 57      SPEED: 25ft
 INT 13 (+1)     PROF:   +4      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +5
 CHA 18 (+4)     AC:     15 + 1
@@ -235,7 +235,7 @@ Strahd Vanzeravitch
 Leoben Saffiredge
 - icky vampire dwarf
 - quite a thing to best him
-- Toscord fighting pits, in the north of Adinos
+- Toscord fighting pits, in the north of Adios
 
 Aranda Bearcharger like 4000 years ago
 - thrillingly relentless huntress
@@ -263,7 +263,7 @@ Don't accept dark gift in temple
 - Amber temple, guarded by forces of Good
 - Do not release the temple
 
-we're on a strahd plane
+we're on a strand plane
 
 EXATHANTOR (litch)
 - power over mountain domain is super strong
@@ -290,6 +290,21 @@ TOWER BEFORE SELENKA PASS
 - ladies on roof of tower
 - room with hearth
 
+JACARIUM (wizard extrodanaire)
+- Vilnas (?)
+
+Creature in Temple
+- Creature of animated material
+- Gollum, big boi
+- very strong
+- magic resistant
+
+Anne Murray
+- Has horns
+- long black hair
+- deep red, has tail
+- solid black eyes
+
 # Doss Lute
 **Wondrous item, uncommon, requires attunement**
 
@@ -309,3 +324,28 @@ When you use the instrument to cast a spell that causes targets to become charme
 • Protection from Energy (fire only)
 • Protection from Evil and Good
 • Protection from Poison
+
+We met a new Teifling named Anne
+Who came to an evil cursed land
+We found you when frozen
+And we killed your pal Leoben
+Honestly this went better than we planned
+
+I know of a barbarian named Kote
+Who outwits neither goldfish nor goat
+Nothing can stand in his path
+Except for math
+At least when he swims he floats
+
+Here stands our mighty Illican!
+Who could grapple even a minivan,
+When we call on our hero,
+Your movement speed will be zero,
+Or perhaps he'll throw a patch of catamaran.
+
+There goes Hugo the halfling,
+Who's plans are always unravelling,
+You'd think that a monk,
+Wouldn't be stoned nor drunk,
+At least it makes for adventurous travelling.
+
