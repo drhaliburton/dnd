@@ -1,6 +1,6 @@
 // BRAD THE BARD
 
-BARD LVL 6
+BARD LVL 7
 ROGUE LVL 2
 XP: 42385
 Age 13, 4'2
@@ -9,7 +9,7 @@ Age 13, 4'2
 
 STR 10 (+0)     MAX HP: 57      HIT DICE: 9 * d8+2
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
-CON 12 (+1)     CUR HP: 57      SPEED: 25ft
+CON 12 (+1)     CUR HP: 24      SPEED: 25ft
 INT 13 (+1)     PROF:   +4      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +5
 CHA 18 (+4)     AC:     15 + 1
@@ -77,7 +77,7 @@ Light			Bane			Silence			Stinking Cloud
 4th:
 3rd:
 2nd:
-1st:
+1st: |
 
 // ONCE A DAY
 
@@ -144,7 +144,7 @@ a holy symbol of great hope
 search for the crypt of a wizard ordinaire
 
 -- Gormb/Devy
-- A card of power and strength
+A card of power and strength
 A weapon of vengence
 A sword of sunlight
 
@@ -213,7 +213,7 @@ Gem with a witch, NEAR THE MARSH
 vampires in valaki
 
 Rictavio => Rudolf Van Richten
-accomplished phsyician
+accomplished physician
 life's purpose is to rid world of vamps
 
 Anus necklace
@@ -265,7 +265,7 @@ Don't accept dark gift in temple
 
 we're on a strand plane
 
-EXATHANTOR (litch)
+EXATHANTOR (beholder litch)
 - power over mountain domain is super strong
 
 ANALYSA (witch)
@@ -276,6 +276,7 @@ ANALYSA (witch)
 
 JUSTICE
 - don't let him out run or he'll run away
+- he ran away
 
 MULL
 - eat mushroom, get mulledge
@@ -325,16 +326,16 @@ When you use the instrument to cast a spell that causes targets to become charme
 • Protection from Evil and Good
 • Protection from Poison
 
-We met a new Teifling named Anne
-Who came to an evil cursed land
-We found you when frozen
-And killed your pal Leoben
-Honestly this is going better than planned
+We met a new Teifling named Anne,
+Who came to an evil cursed land.
+We saved you from frozen,
+But killed your pal Leoben,
+Honestly this is going better than planned.
 
-I know of a barbarian named Kote
-Who outwits neither goldfish nor goat
-Nothing stands in his path
-Except maybe math
+I know of a barbarian named Kote,
+Who outwits neither goldfish nor goat,
+Nothing stands in his path,
+Except maybe math,
 At least when he swims he'll float
 
 Here stands the mighty Illican!
@@ -344,8 +345,19 @@ Your movement speed is zero,
 Or perhaps he'll throw a patch of catamaran.
 
 There goes Hugo the halfling,
-Who's plans are always unravelling,
+Who's plans are always unravelling.
 You'd think that a monk,
-Wouldn't be stoned nor drunk,
+Wouldn't be stoned nor drunk.
 At least it makes for adventurous travelling.
 
+Fuck this stupid asshole Strahd,
+His character is well beyond flawed.
+Lame sad boi in a cloak,
+Barovia is a joke.
+He can't even hold down a broad.
+
+Go die you ugly ass witch,
+Just looking at you is making me itch.
+You're a useless lackey,
+Strahd's plaything chachki,
+I wouldn't honour you by calling you a bitch.
