@@ -2,14 +2,16 @@
 
 BARD LVL 7
 ROGUE LVL 2
-XP: 42385
+XP: 45885
 Age 13, 4'2
+
+HAS INSPO
 
 // STATS
 
-STR 10 (+0)     MAX HP: 57      HIT DICE: 9 * d8+2
+STR 10 (+0)     MAX HP: 57      HIT DICE: 3 * d8+2
 DEX 16 (+3)     TMP HP:  0      LANGUAGES: Common, Halfling, Thieves' Cant, Druidic*
-CON 12 (+1)     CUR HP: 24      SPEED: 25ft
+CON 12 (+1)     CUR HP: 57    	SPEED: 25ft
 INT 13 (+1)     PROF:   +4      PASSIVE PERCEPTION: 15
 WIS 8  (-1)     INIT:   +5
 CHA 18 (+4)     AC:     15 + 1
@@ -27,7 +29,7 @@ History         (+3)	        CHA (+8)
 Insight         (+3)
 Intimidation    (+6)	        *Advantage against being frightened
 Investigation   (+5)          	*Keen Mind
-Medicine        ( 1) 		*Lucky - reroll 1 on attack, saving or ability throw
+Medicine        ( 1) 		*Lucky - reroll 1 on attack, saving throw or ability check
 Nature          (+3)
 Perception      (+3)
 Performance     (+8)
@@ -50,7 +52,7 @@ Daggers             (+7 1d4+3) ||
 
 Healing Word          Cutting Words
 Bardic Inspo          Combat Inspiration
-Cunning Action
+Cunning Action	      Hellish Rebuke (disadvantage to attack anyone else until they die)
 Countercharm
 
 Countercharm (anyone in 30 ft has adv. on frightened/charmed)
@@ -66,18 +68,18 @@ DC: 16
 
 Cantrips        	1st ||||                2nd ||||           	3rd |||		 	4th |
 -----------------------------------------------------------------------------------------------------------------
-Vicious Mockery 	Healing Word            Shatter		   	Dispel Magic		Polymorph
-Mage Hand       	Hideous Laughter	Suggestion		Hypnotic Pattern
+Vicious Mockery 	Healing Word            Shatter		   	Brad's Tiny Hut		Polymorph
+Mage Hand       	Hideous Laughter	Locate Object		Hypnotic Pattern
 Light			Bane			Silence			Stinking Cloud
     	     		Thunderwave					Fireball
                   				 			Fly
 
 ~ Spells Used ~
 
-4th:
-3rd:
-2nd:
-1st: |
+4th: 
+3rd: 
+2nd: 
+1st: 
 
 // ONCE A DAY
 
@@ -196,7 +198,7 @@ One lost to time
 
 Axe in a tree?
 Dress - the tigher the better
-Stella, daughter of Fiona Vaughter, finace of Victhor Valachovitch (burglemasters son) is missing. He beat her.
+Stella, daughter of Fiona Vaughter, fiance of Victhor Valachovitch (burglemasters son) is missing. He beat her.
 
 Cassomire (dusk elves)
 - Sergei is strahds brother
@@ -332,12 +334,6 @@ We saved you from frozen,
 But killed your pal Leoben,
 Honestly this is going better than planned.
 
-I know of a barbarian named Kote,
-Who outwits neither goldfish nor goat,
-Nothing stands in his path,
-Except maybe math,
-At least when he swims he'll float
-
 Here stands the mighty Illican!
 Who could grapple even a minivan,
 When we call on our hero,
@@ -350,14 +346,21 @@ You'd think that a monk,
 Wouldn't be stoned nor drunk.
 At least it makes for adventurous travelling.
 
+I know of a barbarian named Kote,
+Who outwits neither goldfish nor goat,
+Nothing stands in his path,
+Except maybe math,
+At least when he swims he'll float
+
 Fuck this stupid asshole Strahd,
 His character is well beyond flawed.
 Lame sad boi in a cloak,
 Barovia is a joke.
-He can't even hold down a broad.
+No wonder he can't hold down a broad.
 
 Go die you ugly ass witch,
 Just looking at you is making me itch.
 You're a useless lackey,
 Strahd's plaything chachki,
 I wouldn't honour you by calling you a bitch.
+
